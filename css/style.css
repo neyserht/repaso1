@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+
+}
+
+
+.flex{
+    display: flex;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.align-center{
+    text-align: center;
+}
+.align-v{
+    justify-content: center;
+    align-items: center;
+}
+header div .cow{
+    color: #FECF4D;
+}
+header div h3{
+    color: #91989d;
+}
